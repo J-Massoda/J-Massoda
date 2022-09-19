@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jean Emilien Massoda.
-- 👀 Frontend developer. Using HTML, CSS, JavaScript, Js libraries (React.js).
+- 👀 Frontend developer. Using HTML, CSS, JavaScript, and React.js library.
 - 🌱 I’m currently in my third year, studying software engineering in the university. 
 - ✅ Taking cloud computing courses and It support courses for work.
 - 💞️ I’m looking to collaborate on  some beautiful development and creative Ideas. 

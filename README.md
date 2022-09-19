@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-Massoda
+- 👋 Hi, I’m Jean Emilien Massoda
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently in my third year, studying software engineering in the university. 
 - ✅ Taking cloud computing courses and It support courses for work.

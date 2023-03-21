@@ -1,13 +1,13 @@
 
                                 👋 Hi, I’m Jean Emilien Massoda.
 
-![image](https://user-images.githubusercontent.com/113721244/226675881-cbd4dc38-bfc9-4616-b740-6ccd89dfb54f.png)
+  ![image](https://user-images.githubusercontent.com/113721244/226675881-cbd4dc38-bfc9-4616-b740-6ccd89dfb54f.png)
 
-- 👀 Software Ddeveloper specialized in frontend developmentwith intemediate knowlwdge in backend development.
+- 👀 Software Ddeveloper specialized in frontend development with intemediate knowlwdge in backend development.
 
 - over 30+ projects Using HTML, CSS, JavaScript, and React.js library React Native, Flutter, Firebase.
 
-- I work with python/Metlab, verification and validation and hands-on experience in Django 
+- I recently started working with python/Metlab, verification and validation and hands-on experience in Django 
 
 - 🌱 I recently graduated obtaining my "Bachelors in Technologies certificate" in software engineering. 
 

@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Jean Emilien Massoda.
-- 👀 Frontend developer. Using HTML, CSS, JavaScript, and React.js library.
-- 🌱 I’m currently in my third year, studying software engineering in the university. 
-- ✅ Taking cloud computing courses and It support courses for work.
+- 👀 Software Ddeveloper specialized in frontend developmentwith intemediate knowlwdge in backend development.
+- over 30+ projects Using HTML, CSS, JavaScript, and React.js library React Native, Flutter, Firebase.
+- I work with python/Metlab, verification and validation and hands-on experience in Django 
+- 🌱 I recently graduated obtaining my "Bachelors in Technologies certificate" in software engineering. 
+- ✅ It support courses for freelancing opportunies with entry level knowledge in AWS and.
 - 💞️ I’m looking to collaborate on  some beautiful development and creative Ideas. 
-- 📫 Let's chat LinkedIn https://www.linkedin.com/in/jean-emilien-massoda-59b7061a9/
+
 
 <!---
 J-Massoda/J-Massoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

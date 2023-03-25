@@ -3,9 +3,9 @@
 
   ![image](https://user-images.githubusercontent.com/113721244/226675881-cbd4dc38-bfc9-4616-b740-6ccd89dfb54f.png)
 
-- 👀 Software Ddeveloper specialized in frontend development with intemediate knowlwdge in backend development.
+- 👀 Software Ddeveloper specialized in frontend development with intermediate knowlwdge in backend development.
 
-- over 30+ projects Using HTML, CSS, JavaScript, and React.js library React Native, Flutter, Firebase.
+- Over 30+ projects Using HTML, CSS, JavaScript, and React.js library React Native, Flutter, Firebase.
 
 - I recently started working with python/Metlab, verification and validation and hands-on experience in Django 
 

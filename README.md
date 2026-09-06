@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/113721244/226675881-cbd4dc38-bfc9-4616-b740-6ccd89dfb54f.png)
 
-- 💻 Frontend Developer & Designer with 7+ years of experience building interactive web, mobile, and e-commerce experiences.
+- 💻 Software Developer & Designer with 7+ years of experience building interactive web, mobile, and e-commerce experiences.
 
 - 🚀 Shipped real, production work across fintech (mobile money & USSD wallet platforms), B2B marketplaces, hospitality, and multi-brand e-commerce — using React, Next.js, WordPress/WooCommerce, and PHP.
 
